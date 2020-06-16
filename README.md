@@ -15,6 +15,6 @@ Resolução do Desafio sobre conceitos do Node.js aplicado no BootCamp GoStack
 <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs#calendar-entrega">Rocketseat/bootcamp-gostack-desafios</a>
 
 
-<p>Feito com <g-emoji class="g-emoji" alias="purple_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f49c.png">💜</g-emoji> by Rocketseat <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> <a href="https://discordapp.com/invite/gCRAFhc" rel="nofollow">Entre na nossa comunidade!</a> | E Resolvido por min 😜 </p>
+<p>Feito com <g-emoji class="g-emoji" alias="purple_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f49c.png">💜</g-emoji> by Rocketseat | E Resolvido por min 😜 </p>
 </article>
       </div>
